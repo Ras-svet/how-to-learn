@@ -10,14 +10,14 @@
 @import url(../blocks/header/__main-illustration/header__main-illustration.css);
 @import url(../blocks/rotation/rotation.css);
 @import url(../blocks/header/__square-pic/header__square-pic.css);
-/* description написала*/
+/* description*/
 @import url(../blocks/description/description.css);
 @import url(../blocks/description/two-columns/two-columns.css);
 @import url(../blocks/description/two-columns/__brief/two-columns__brief.css);
 @import url(../blocks/description/two-columns/__main-text/two-columns__main-text.css);
 @import url(../blocks/description/two-columns/__paragraph/two-columns__paragraph.css);
 @import url(../blocks/description/two-columns/__span-accent/two-columns__span-accent.css);
-/* техник сделать*/
+/* техник*/
 @import url(../blocks/techniques/techniques.css);
 @import url(../blocks/techniques/cards/cards.css);
 @import url(../blocks/techniques/cards/__item/cards__item.css);
@@ -28,10 +28,9 @@
 @import url(../blocks/video/video.css);
 @import url(../blocks/video/__iframes/video__iframes.css);
 @import url(../blocks/video/__iframe/video__iframe.css);
-@import url(../blocks/video/__iframe/_border/video__iframe_border_null.css);
 /* оаклей  */
 @import url(../blocks/oakley/oakley.css);
-/* фейнман написала*/
+/* фейнман*/
 @import url(../blocks/feynman/feynman.css);
 @import url(../blocks/feynman/__title/feynman__title.css);
 @import url(../blocks/feynman/__subtitle/feynman__subtitle.css);
