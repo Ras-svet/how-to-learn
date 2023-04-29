@@ -1,0 +1,11 @@
+.cards {
+	width: 920px;
+	flex-wrap: wrap;
+	display: flex;
+	justify-content: space-between;
+}
+
+.cards::after {
+	content: "";
+	width: 240px;
+}
