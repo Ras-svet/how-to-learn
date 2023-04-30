@@ -1,4 +1,5 @@
 .footer__column-links {
+	color: #fff;
 	display: flex;
 	flex-direction: column;
 	justify-content: space-between;
